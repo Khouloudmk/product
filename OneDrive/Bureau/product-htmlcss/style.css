@@ -1,0 +1,25 @@
+.product-image{
+    width: 150px;
+}
+.product{
+    border: solid black;
+    margin: 10px;
+    display: inline-block;
+    background-color: #EBEBEB;
+    width: 15%;
+}
+#container{
+    text-align: center;
+}
+.product-button{
+    background-color: brown;
+}
+#border-color1{
+    border: solid red;
+}
+#border-color2{
+    border: none;
+}
+#border-color3{
+    border: solid blue;
+}
